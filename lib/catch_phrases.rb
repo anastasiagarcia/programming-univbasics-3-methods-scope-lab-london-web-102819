@@ -1,4 +1,4 @@
-$status = 'Thank You Mario! But Our Princess Is In Another
+$status = "Thank You Mario! But Our Princess Is In Another"
 
 def mario
    Castle!'
